@@ -1,5 +1,5 @@
-let a = 200;
-let b = 200;
-let c = 10;
+let a = 20;
+let b = 20;
+let c = 5;
 let resultado = a + b - c;
 console.log(resultado);
