@@ -1,3 +1,4 @@
+//criar variaveis
 let a = 200;
 let b = 200;
 let c = 15;
